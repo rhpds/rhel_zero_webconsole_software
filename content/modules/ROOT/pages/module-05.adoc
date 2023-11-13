@@ -1,0 +1,14 @@
+In addition to targeting security updates, you may also apply all the
+updates on the system.
+
+When you are ready, apply the available updates by clicking the *Install
+All Updates* button.
+
+Again you are asked to restart the system. This time, you can if you
+choose to do so.
+
+Now your system reports that it has been updated and requires a
+`+Reboot+` or `+Restart services+`.
+
+.Ignore Restart Request
+image::Restart-request.png[Ignore Restart Request]

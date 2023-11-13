@@ -1,0 +1,15 @@
+Notice that there are a mix of updates available for the system. Some of
+these are identified as *Security Updates* by the shield icon in the
+*Severity* field.
+
+Also, you will notice that there is a button in the upper left corner
+entitled *Install Security Updates*.
+
+Use the *Install Security Updates* button to apply this set of updates.
+
+After the security updates are applied, you are prompted to restart the
+system so that the updates take effect. We are not yet finished applying
+updates, so, for now, please *Ignore* the restart request.
+
+.Ignore Restart Request
+image::Restart-request.png[Ignore Restart Request]
