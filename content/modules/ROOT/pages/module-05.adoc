@@ -1,3 +1,5 @@
+*Apply remaining available updates*
+
 In addition to targeting security updates, you may also apply all the
 updates on the system.
 
@@ -12,3 +14,5 @@ Now your system reports that it has been updated and requires a
 
 .Ignore Restart Request
 image::Restart-request.png[Ignore Restart Request]
+
+This lab is now complete!
