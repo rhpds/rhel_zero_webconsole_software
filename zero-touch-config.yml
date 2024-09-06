@@ -5,15 +5,15 @@ antora:
   dir: www
   modules:
     - name: index
-      label: Module 1
+      label: Log into the Web Console
     - name: module-02
-      label: Module 2
+      label: Navigate to Software Updates application
     - name: module-03
-      label: Module 3
+      label: Examine available updates
     - name: module-04
-      label: Module 4
+      label: Apply security updates
     - name: module-05
-      label: Module 5
+      label: Apply remaining available updates
 tabs:
   - name: terminal
     port: 443
