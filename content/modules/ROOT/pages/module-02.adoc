@@ -1,13 +1,12 @@
+*Navigate to Software Updates application*
+
 Now that you are logged into the Web Console, we must turn on
 administrative access.
 
 Click `+Turn on administrative access+`.
 
-Next do the following:
-
-[arabic]
-. Enter the password: *redhat*
-. Click `+Authenticate+`
+.admin access
+image::turn-on-admin.png[admin access]
 
 Navigate to the *Software Updates* application.
 
