@@ -1,9 +1,20 @@
-Click on the tab titled *RHEL Web Console* at the top of your lab system
-interface. Selecting this tab will open the lab system’s Web Console in
+*Log into the Web Console*
+
+Click on the link below titled *RHEL Web Console*, this will open the lab system’s Web Console in
 a new browser tab or window.
 
-.web console
-image::pop-out-2.png[web console]
+
+[cols="1,1,1"]
+|===
+|*Username*
+|*Password*
+|*Red Hat Enterprise Linux Web Console*
+
+|{cockpit_user_name}
+|{cockpit_user_password}
+|{cockpit_url}[RHEL Web Console^]
+
+|===
 
 Click `+Advanced+`
 
@@ -18,16 +29,8 @@ image::proceed.png[Proceed]
 Once the login page is presented, use the following credentials to log
 into the Web Console:
 
-1 - Username:
+*Username:* {cockpit_user_name}
+*Password:* {cockpit_user_password}
 
-[source,bash]
-----
-rhel
-----
-
-2 - Password:
-
-[source,bash]
-----
-redhat
-----
+.Web Console Login
+image::Web-console-login.png[Web Console Login]
