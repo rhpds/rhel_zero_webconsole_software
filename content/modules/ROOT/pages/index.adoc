@@ -21,7 +21,7 @@ Click `+Advanced+`
 .Connection not private
 image::connection-not-private.png[Connection not private]
 
-Then click `+Proceed to rhel.xxxx.instruqt.io+`
+Then click `+Proceed to bastion.xxxxx.sandboxxxx.opentlc.com+`
 
 .Proceed
 image::proceed.png[Proceed]
